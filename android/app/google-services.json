@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443516677156",
+    "project_id": "fir-storage-f43fd",
+    "storage_bucket": "fir-storage-f43fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443516677156:android:bb4b4fe18ecedaf6473cb1",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQuWukTTwqua_cxXadXYLmJp6XLL7KBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
